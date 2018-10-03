@@ -22,6 +22,7 @@ function loadConfig(id, { ctx: configOptions, path: configPath }) {
 
   configPath = configPath ? path.resolve(configPath) : path.dirname(id)
   const ctx = {
+    env: process.env.NODE_ENV,
     file: {
       extname: path.extname(id),
       dirname: path.dirname(id),
