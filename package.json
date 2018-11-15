@@ -1,6 +1,6 @@
 {
   "name": "@blendle/rollup-plugin-postcss",
-  "version": "1.6.3",
+  "version": "1.6.4",
   "description": "Seamless integration between Rollup and PostCSS",
   "main": "dist/@blendle/rollup-plugin-postcss.cjs.js",
   "files": [
