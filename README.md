@@ -1,7 +1,9 @@
 # rollup-plugin-postcss
 
-[![NPM version](https://img.shields.io/npm/v/rollup-plugin-postcss.svg?style=flat)](https://npmjs.com/package/rollup-plugin-postcss) [![NPM downloads](https://img.shields.io/npm/dm/rollup-plugin-postcss.svg?style=flat)](https://npmjs.com/package/rollup-plugin-postcss) [![Build Status](https://img.shields.io/circleci/project/egoist/rollup-plugin-postcss/master.svg?style=flat)](https://circleci.com/gh/egoist/rollup-plugin-postcss) [![codecov](https://codecov.io/gh/egoist/rollup-plugin-postcss/branch/master/graph/badge.svg)](https://codecov.io/gh/egoist/rollup-plugin-postcss)
- [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
+⚠ This is a (hopefully temporary) fork of [egoist/rollup-plugin-postcss](https://github.com/egoist/rollup-plugin-postcss) with a [patch by christophehurpeau](https://github.com/egoist/rollup-plugin-postcss/pull/131). ⚠
+
+
+[![NPM version](https://img.shields.io/npm/v/@blendle/rollup-plugin-postcss.svg?style=flat)](https://npmjs.com/package/@blendle/rollup-plugin-postcss) [![NPM downloads](https://img.shields.io/npm/dm/@blendle/rollup-plugin-postcss.svg?style=flat)](https://npmjs.com/package/@blendle/rollup-plugin-postcss) [![Build Status](https://img.shields.io/circleci/project/blendle-forks/rollup-plugin-postcss/master.svg?style=flat)](https://circleci.com/gh/blendle-forks/rollup-plugin-postcss) [![codecov](https://codecov.io/gh/blendle-forks/rollup-plugin-postcss/branch/master/graph/badge.svg)](https://codecov.io/gh/egoist/rollup-plugin-postcss)
 
 <img align="right" width="95" height="95"
      title="Philosopher’s stone, logo of PostCSS"

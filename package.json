@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-postcss",
+  "name": "@blendle/rollup-plugin-postcss",
   "version": "1.6.3",
   "description": "Seamless integration between Rollup and PostCSS",
   "main": "dist/rollup-plugin-postcss.cjs.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/egoist/rollup-plugin-postcss.git"
+    "url": "git+https://github.com/blendle-forks/rollup-plugin-postcss.git"
   },
   "keywords": [
     "postcss",
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/egoist/rollup-plugin-postcss/issues"
   },
-  "homepage": "https://github.com/egoist/rollup-plugin-postcss#readme",
+  "homepage": "https://github.com/blendle-forks/rollup-plugin-postcss#readme",
   "devDependencies": {
     "autoprefixer": "^7.2.4",
     "babel-jest": "^22.0.4",
